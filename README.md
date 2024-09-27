@@ -19,8 +19,6 @@ Preferably on a Linux machine with a 48 GB VRAM Nvidia GPU, although it might wo
 
 - use "ollama pull llama-3.1:70b" in a terminal to get the model we used 
 
-- create the local folders "logs" and "results"
-
 - execute the script "runall.sh"
 
 
