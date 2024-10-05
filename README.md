@@ -27,7 +27,7 @@ Preferably on a Linux machine with a 48 GB VRAM Nvidia GPU, although it might wo
 In about 3 hours (or 36 hours for a 24 GB card) you will have the translated
 texts into the folder "results".
 
-Tested on Ubuntu 22.04 Linux with a 48 GB GPU (Nvidia A6000 ADA, see the times below) and with a 24 GB GPU (Nvidia A5000, 12x slower in this task, as a result of the insufficent VRAM size)
+Tested on Ubuntu 22.04 Linux with a 48 GB GPU (Nvidia A6000 ADA, see the times below) and with a 24 GB GPU (Nvidia A5000, 12x slower in this task, as a result of the insufficient VRAM size)
 
     de2en_de.txt:took: 728.68479347229 s
     en2de_en.txt:took: 1213.0289468765259 s
